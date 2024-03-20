@@ -37,4 +37,4 @@
 + Monitor server instance state
 + API endpoint to get state in JSON
 + API endpoint to download the server executable
-+ 
+
