@@ -127,6 +127,14 @@ Inherits WebApplication
 
 
 	#tag ViewBehavior
+		#tag ViewProperty
+			Name="OSUser"
+			Visible=false
+			Group="Behavior"
+			InitialValue=""
+			Type="String"
+			EditorType=""
+		#tag EndViewProperty
 	#tag EndViewBehavior
 End Class
 #tag EndClass
